@@ -1,0 +1,737 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmployeeManagement.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\03526971-e439-450f-922d-facaa049448b_318082382_682919830113430_6885712939595701537_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\03526971-e439-450f-922d-facaa049448b_318082382_682919830113430_6885712939595701537_n.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\100b394b-5918-47c3-8036-59ce2958c452_318082382_682919830113430_6885712939595701537_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\100b394b-5918-47c3-8036-59ce2958c452_318082382_682919830113430_6885712939595701537_n.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\1357b2f0-1b00-4220-9bb8-73fa987bbc56_photo_2022-11-05_12-58-39.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\1357b2f0-1b00-4220-9bb8-73fa987bbc56_photo_2022-11-05_12-58-39.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\1474ef19-04f9-4831-b3ea-94d6391507d7_74172453_142555683734806_7115030483112558592_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\1474ef19-04f9-4831-b3ea-94d6391507d7_74172453_142555683734806_7115030483112558592_n.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\1edb4a22-fc2b-4a22-9283-61ac87260081.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\1edb4a22-fc2b-4a22-9283-61ac87260081.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\2e3371db-810e-4e12-bc1b-32ab42fcb602.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\2e3371db-810e-4e12-bc1b-32ab42fcb602.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\313675c0-6619-4841-9887-4d461090fd56.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\313675c0-6619-4841-9887-4d461090fd56.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\3c44e7f3-6240-4cc3-b93c-5f7027b4b740_photo_2022-11-05_12-58-39.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\3c44e7f3-6240-4cc3-b93c-5f7027b4b740_photo_2022-11-05_12-58-39.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\6be68194-c616-4b69-a89a-837b2927907d_323932914_3406934516252054_2397895401906622490_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\6be68194-c616-4b69-a89a-837b2927907d_323932914_3406934516252054_2397895401906622490_n.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\6d0c4c5c-77b1-4ff5-b726-f6595705d2cf_photo_2022-11-05_12-58-39.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\6d0c4c5c-77b1-4ff5-b726-f6595705d2cf_photo_2022-11-05_12-58-39.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\73c32441-f2ba-469a-b8b4-806dcc0a2e24.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\73c32441-f2ba-469a-b8b4-806dcc0a2e24.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\84159ad8-c6bd-48df-b027-a3525fc58997.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\84159ad8-c6bd-48df-b027-a3525fc58997.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\8e79f7c5-a1a3-4d5b-ab74-a99150f3deb9_74172453_142555683734806_7115030483112558592_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\8e79f7c5-a1a3-4d5b-ab74-a99150f3deb9_74172453_142555683734806_7115030483112558592_n.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\95494e7e-b996-45c4-a92a-e5793ea96e66.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\95494e7e-b996-45c4-a92a-e5793ea96e66.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\a14a12cd-7d50-45ec-a40e-6c75068d27ae.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\a14a12cd-7d50-45ec-a40e-6c75068d27ae.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\Employee\\e8b0fa8a-ce98-41d7-bd4d-39ed2c1973ff_328253739_1174112623244067_6705309906895384090_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\Employee\\e8b0fa8a-ce98-41d7-bd4d-39ed2c1973ff_328253739_1174112623244067_6705309906895384090_n.jpg"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\Images\\user\\users.png",
+      "PackagePath": "staticwebassets\\Images\\user\\users.png"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\adminlte.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\admin-lte\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\adminlte.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\demo.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\demo.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\demo.min.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\demo.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\pages\\dashboard.min.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\pages\\dashboard.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\pages\\dashboard2.min.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\pages\\dashboard2.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\admin-lte\\js\\pages\\dashboard3.min.js",
+      "PackagePath": "staticwebassets\\admin-lte\\js\\pages\\dashboard3.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\css\\maps\\jquery-jvectormap-2.0.3.css",
+      "PackagePath": "staticwebassets\\css\\css\\maps\\jquery-jvectormap-2.0.3.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\css\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\css\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\css\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\css\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\css\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-bs4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatables-bs4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-bs4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatables-bs4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatables-buttons\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatables-buttons\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\datatables-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\datatables-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\datatables-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\datatables-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.print.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-responsive\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\datatables-responsive\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-responsive\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\datatables-responsive\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-responsive\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\datatables-responsive\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\datatables-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-responsive\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\datatables-responsive\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables-responsive\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\datatables-responsive\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\datatables\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\datatables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\datatables\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\font\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\font\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\font\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font\\js\\all.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\font\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\jszip\\jszip.js",
+      "PackagePath": "staticwebassets\\jszip\\jszip.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\jszip\\jszip.min.js",
+      "PackagePath": "staticwebassets\\jszip\\jszip.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\pdfmake\\pdfmake.js",
+      "PackagePath": "staticwebassets\\pdfmake\\pdfmake.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\pdfmake\\pdfmake.js.map",
+      "PackagePath": "staticwebassets\\pdfmake\\pdfmake.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\pdfmake\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\pdfmake\\pdfmake.min.js"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\pdfmake\\pdfmake.min.js.map",
+      "PackagePath": "staticwebassets\\pdfmake\\pdfmake.min.js.map"
+    },
+    {
+      "Id": "E:\\midterm\\EmployeeManagement\\EmployeeManagement\\wwwroot\\pdfmake\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\pdfmake\\vfs_fonts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EmployeeManagement.props",
+      "PackagePath": "build\\EmployeeManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeManagement.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EmployeeManagement.props",
+      "PackagePath": "buildTransitive\\EmployeeManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

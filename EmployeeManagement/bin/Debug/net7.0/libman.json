@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap@5.2.3",
+      "destination": "wwwroot/css/",
+      "files": [
+        "js/bootstrap.min.js",
+        "css/bootstrap.min.css"
+      ]
+    },
+    {
+      "library": "font-awesome@6.3.0",
+      "destination": "wwwroot/font/",
+      "files": [
+        "js/fontawesome.min.js",
+        "css/fontawesome.min.css"
+      ]
+    },
+    {
+      "library": "pdfmake@0.2.7",
+      "destination": "wwwroot/pdfmake/",
+      "files": [
+        "pdfmake.min.js",
+        "vfs_fonts.js"
+      ]
+    },
+    {
+      "library": "jszip@3.10.1",
+      "destination": "wwwroot/jszip/",
+      "files": [
+        "jszip.min.js"
+      ]
+    },
+    {
+      "library": "datatables-buttons@2.3.5",
+      "destination": "wwwroot/datatables-buttons/datatables-buttons/",
+      "files": [
+        "js/dataTables.buttons.min.js",
+        "js/buttons.print.min.js",
+        "js/buttons.html5.min.js"
+      ]
+    },
+    {
+      "library": "datatables@1.10.21",
+      "destination": "wwwroot/datatables/",
+      "files": [
+        "js/jquery.dataTables.min.js",
+        "css/jquery.dataTables.min.css"
+      ]
+    }
+  ]
+}

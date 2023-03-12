@@ -1,0 +1,110 @@
+﻿@model IEnumerable<EmployeeManagement.Models.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="container-fluid" style="width:100%">
+    <div class="row">
+        <div class="col-12">
+
+            <div class="card">
+
+                <div class="card-header bg-secondary color-palette">
+                    <h3 class="card-title">
+                        Employees List
+
+                    </h3>
+
+                </div>
+                <div class="card-body">
+                    <table id="example1" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.FirstName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.LastName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Title)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Email)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Phone)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Position)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Address)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Image)
+                                </th>
+                                <th class="text-center">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.FirstName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.LastName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Title)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Email)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Phone)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Position)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Address)
+                                    </td>
+                                    <td>
+                                        <img src="@("~/Images/Employee/"+ item.Image)" asp-append-version="true" alt="Generic placeholder image" class="img-fluid"
+                                         style="width: 50px; border-radius: 10px;">
+
+                                    </td>
+                                    <td class="project-actions">
+                                        <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.Id">
+                                            <i class="fas fa-folder">
+                                            </i>
+                                            Details
+                                        </a>
+                                        <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
+                                            <i class="fas fa-pencil-alt">
+                                            </i>
+                                            Edit
+                                        </a>
+                                        <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                                            <i class="fas fa-trash">
+                                            </i>
+                                            Delete
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

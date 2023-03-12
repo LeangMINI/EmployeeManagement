@@ -1,0 +1,79 @@
+﻿@model EmployeeManagement.Models.Employee
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="card card-gray  ">
+    <div class="card-header">
+        <h3 class="card-title">Edit Employee</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <form asp-action="Edit" enctype="multipart/form-data" method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="card-body">
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <select asp-for="Title" class="form-control"
+                        asp-items="@Html.GetEnumSelectList<Title>()">
+                    <option value="" style="display:none">----Select Title----</option>
+                </select>
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div><div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div><div class="form-group">
+                <label asp-for="Position" class="control-label"></label>
+                <select asp-for="Position" class="form-control"
+                        asp-items="@Html.GetEnumSelectList<Position>()">
+                    <option value="" style="display:none">----Select Title----</option>
+                </select>
+                <span asp-validation-for="Position" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <img src="@("~/Images/Employee/"+Model.Image)" asp-append-version="true"class="img-fluid" style="width: 180px; border-radius: 10px;">
+                <input asp-for="ImageFile" asp accept="image/*" class="form-control" />
+
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+            </div>
+           
+        <div class="card-footer">
+            <button type="submit" value="Create" class="btn btn-primary">Save</button>
+            <a asp-action="Index" class="btn btn-warning">Back to List</a>
+        </div>
+    </form>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

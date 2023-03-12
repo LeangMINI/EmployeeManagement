@@ -1,0 +1,42 @@
+﻿@model EmployeeManagement.Models.Employee
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 mb-4 mb-sm-5">
+            <div class="card card-style1 border-0">
+                <div class="card-body p-1-9 p-sm-2-3 p-md-6 p-lg-7">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 mb-4 mb-lg-0">
+                            <img src="@("~/Images/Employee/"+ Model.Image)" asp-append-version="true"
+                                 alt="Generic placeholder image" class="img-fluid"
+                                 style="width: 180px; border-radius: 10px;">
+                        </div>
+                        <div class="col-lg-6 px-xl-10">
+                            <h5 class="mb-1"><span>@Html.DisplayFor(model => model.Title).</span><b> @Html.DisplayFor(model => model.FirstName) @Html.DisplayFor(model => model.LastName)</b></h5>
+                            <p class="text-muted text-sm"><b>Position: </b> @Html.DisplayFor(model => model.Position) </p>
+                            <div class="d-flex justify-content-start rounded-3 p-2 mb-2"
+                                 style="background-color: #efefef;">
+                                <ul class="ml-4 mb-0 fa-ul text-muted">
+                                    <li class="small"><span class="fa-li"><i class="fas fa-lg fa-building"></i></span> Address: @Html.DisplayFor(model => model.Address)</li>
+                                    <li class="small"><span class="fa-li"><i class="fas fa-lg fa-phone"></i></span> Phone: @Html.DisplayFor(model => model.Phone)</li>
+                                    <li class="small"><span class="fa-li"><i class="fa fa-envelope"></i></span> Email: @Html.DisplayFor(model => model.Email)</li>
+                                </ul>
+                            </div>
+                            <div class="d-flex pt-1">
+                                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+                                <a class="btn btn-primary" asp-action="Index">Back to List</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

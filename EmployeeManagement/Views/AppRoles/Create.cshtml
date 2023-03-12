@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IdentityRole
+
+
+<div class="card  card-gray">
+    <div class="card-header">
+        <h3 class="card-title">Create New Role</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <form asp-action="Create" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="card-body">
+            <label asp-for="Name">Name Role</label>
+            <div class="form-group">
+                <input asp-for="Name" class="form-control" aria-required="true" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            </div>
+        <div class="card-footer">
+            <button type="submit" value="Create" class="btn btn-primary">Save</button>
+            <a asp-action="Index" class="btn btn-warning">Back to List</a>
+        </div>
+    </form>
+</div>
